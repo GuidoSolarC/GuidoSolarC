@@ -17,7 +17,7 @@
 
 ---
 <h2>Connect with me / Conectemos 😉</h2>
-[Linkedin](https://www.linkedin.com/in/guidosolar/)
----
+<p><a href="https://www.linkedin.com/in/guidosolar/" target="_blank">Linkedin</a></p>
 
+---
 <h4>I´m starting to translate my main profiles to English / Estoy empezando a traducir mis perfiles principales al inglés</h4>
