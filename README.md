@@ -1,6 +1,6 @@
 ### Hi there / Hola 👋
 ### EN
-<p>I´m **Guido Solar Cabrera**, right now I´m a Full Stack Web Developer</p>
+<p>I´m Guido Solar Cabrera, right now I´m a Full Stack Web Developer</p>
 
 <p>🔭 I’m currently working with SQL Server, CodeIgniter and Vue.js</p>
 <p>👯 I’m looking to become a Software Engineer (and also contribute with open source projects)</p>
