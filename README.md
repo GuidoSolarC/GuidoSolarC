@@ -9,13 +9,16 @@
 
 ---
 <h2>My recents side-projects </h2>
-https://github.com/GuidoSolarC/ram-challenge
 
-https://github.com/GuidoSolarC/pokemon-challenge
++ https://github.com/GuidoSolarC/front-end-test-coding/tree/guido_solar_cabrera/guido_test_coding
+
++ https://github.com/GuidoSolarC/ram-challenge
+
++ https://github.com/GuidoSolarC/pokemon-challenge
 
 ---
 <h2>Connect with me / Conectemos 😉</h2>
 <p><a href="https://www.linkedin.com/in/guidosolar/" target="_blank">Linkedin</a></p>
 
 ---
-<h4>I´m starting to translate my main profiles to English / Estoy empezando a traducir mis perfiles principales al inglés</h4>
+<h4><i>I´m starting to translate my main profiles to English / Estoy empezando a traducir mis perfiles principales al inglés</i></h4>
