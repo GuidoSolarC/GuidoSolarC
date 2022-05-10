@@ -2,8 +2,10 @@
 ### EN
 <p>I´m Guido Solar Cabrera, right now I´m a Full Stack Web Developer</p>
 
-<p>🔭 I’m currently working with SQL Server/MySql, Codeigniter (API REST) and Vue.js</p>
+<p>🔭 I’m currently working with SQL Server, .Net, C#, Javascript</p>
 <p>👯 Looking for remote opportunities in spanish/english accross the globe</p>
+<p>📗 Right now I´m learning Node.js, Express</p>
+<p>📘 My experience included PHP, Vue.js, MySQL, Oracle, HTML, CSS, Bootstrap</p>
 <p><a href="media/resume_en.pdf" target="_blank">My resume</a></p>
 
 
