@@ -6,7 +6,7 @@
 <p>👯 Looking for remote opportunities in spanish/english accross the globe</p>
 <p>📗 Right now I´m learning Node.js, Express</p>
 <p>📘 My experience included PHP, Vue.js, MySQL, Oracle, HTML, CSS, Bootstrap</p>
-<p><a href="https://github.com/GuidoSolarC/GuidoSolarC/files/8901393/Guido.s.Resume.pdf" target="_blank">My resume</a></p>
+<p><a href="https://github.com/GuidoSolarC/GuidoSolarC/files/8923347/Guido.s.Resume.pdf" target="_blank">My resume</a></p>
 
 
 ---
