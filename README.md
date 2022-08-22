@@ -12,17 +12,17 @@
 ---
 <h2>My recents side-projects </h2>
 
-+ https://github.com/GuidoSolarC/frontreact
-
-+ https://github.com/GuidoSolarC/backsymfony
-
 + https://github.com/GuidoSolarC/platzi_nodejs
-
-+ https://github.com/GuidoSolarC/front-end-test-coding/tree/guido_solar_cabrera/guido_test_coding
 
 + https://github.com/GuidoSolarC/ram-challenge
 
 + https://github.com/GuidoSolarC/pokemon-challenge
+
++ https://github.com/GuidoSolarC/frontreact
+
++ https://github.com/GuidoSolarC/backsymfony
+
++ https://github.com/GuidoSolarC/front-end-test-coding/tree/guido_solar_cabrera/guido_test_coding
 
 ---
 <h2>Connect with me / Conectemos 😉</h2>
