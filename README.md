@@ -12,6 +12,8 @@
 ---
 <h2>My recents side-projects </h2>
 
++ https://github.com/GuidoSolarC/youtube-challenge
+
 + https://github.com/GuidoSolarC/platzi_nodejs
 
 + https://github.com/GuidoSolarC/ram-challenge
