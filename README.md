@@ -12,13 +12,13 @@
 ---
 <h2>My recents side-projects </h2>
 
-+ https://github.com/GuidoSolarC/youtube-challenge
++ https://github.com/GuidoSolarC/youtube-challenge (https://youtube-challenge.vercel.app)
 
 + https://github.com/GuidoSolarC/platzi_nodejs
 
 + https://github.com/GuidoSolarC/ram-challenge
 
-+ https://github.com/GuidoSolarC/pokemon-challenge
++ https://github.com/GuidoSolarC/pokemon-challenge (https://pokemon-challenge-swart.vercel.app)
 
 + https://github.com/GuidoSolarC/frontreact
 
