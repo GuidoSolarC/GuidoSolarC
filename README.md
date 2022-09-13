@@ -12,7 +12,7 @@
 ---
 <h2>My recents side-projects </h2>
 
-+ https://github.com/GuidoSolarC/youtube-challenge -> (https://youtube-challenge.vercel.app)
++ https://github.com/GuidoSolarC/youtube-challenge -> (https://youtube-challenge.vercel.app) (Notice me, I you want to try it, to activate AWS)
 
 + https://github.com/GuidoSolarC/platzi_nodejs
 
